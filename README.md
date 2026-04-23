@@ -124,11 +124,7 @@ The dataset is stored in **Azure Data Lake Storage Gen2** and accessed directly 
 
 ---
 
-## 👩‍💻 Author
 
-**[Your Name]**
-B.Tech CSE Student
-KL University
 
 ---
 
